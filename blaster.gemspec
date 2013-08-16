@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Blaster::VERSION
   spec.authors       = ['Kaz Walker']
   spec.email         = ['kaz.walker@doopli.co']
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A gem to control USB dart guns.}
+  spec.summary       = %q{A gem to control USB dart guns.}
   spec.homepage      = ''
   spec.license       = 'MIT'
 
